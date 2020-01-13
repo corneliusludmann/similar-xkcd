@@ -9,3 +9,7 @@ crawl:
 .PHONY: yapf
 yapf:
 	pipenv run yapf -ri --parallel --exclude '.venv/**/*.py' .
+
+.PHONY: prepare
+prepare:
+	pipenv install --dev

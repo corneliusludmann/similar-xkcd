@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/corneliusludmann/similar-xkcd) 
+
 # Similar xkcd comic
 This project calculates [TF-IDF](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) similarities between [xkcd comics ](https://xkcd.com/) based on the descriptions of [explain xkcd](https://www.explainxkcd.com/).
 
